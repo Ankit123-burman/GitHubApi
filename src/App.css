@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  #profile {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    display: inline-block;
+    text-align: left;
+    width: 300px;
+    display: flex;
+    
+    flex-direction: column;
+  }
+  #repositories {
+    margin-top: 20px;
+  }
+  .heading{
+    color: red;
+  }
+  
